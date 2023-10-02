@@ -1,0 +1,22 @@
+.page {
+  padding: 5px;
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.pageContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.itemContainer {
+  padding: 5px;
+}
+
+.dialog {
+  height: 200px;
+  width: 400px;
+  position: fixed;
+  top: 30vh;
+}

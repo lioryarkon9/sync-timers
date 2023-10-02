@@ -1,0 +1,17 @@
+.container {
+  width: 102px;
+  height: 102px;
+  overflow: hidden;
+}
+
+.timer {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  border: 1px solid green;
+}
